@@ -8,8 +8,8 @@
 
 #import "ViewController.h"
 
-#define DEF_BG_COLOR [UIColor whiteColor]
-
+#define DEF_BG_COLOR    [UIColor whiteColor]
+#define DEF_NAV_HEIGHT  50.0f
 
 @interface ViewController ()
 
