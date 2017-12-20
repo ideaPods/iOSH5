@@ -8,6 +8,9 @@
 
 #import "ViewController.h"
 
+#define DEF_BG_COLOR [UIColor whiteColor]
+
+
 @interface ViewController ()
 
 @end
